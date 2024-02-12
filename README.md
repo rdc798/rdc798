@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @rdc798
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Ryan!</h1>
 
-<!---
-rdc798/rdc798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Portfolio Website</b>
+  - [My Portfolio](https://github.com/rdc798)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: linkedin.com/in/ryan-carey-a630082aa/
